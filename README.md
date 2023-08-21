@@ -2,6 +2,8 @@
 
 This is a todolist App for a Odin Project Assignment.  The aim of the project is to practice using common object-creation techniques in JavaScript.
 
+[Live Website](https://xsymmetry9.github.io/todolist/)
+
 ## Built With
 Vanilla JS HTML 5 CSS3
 
