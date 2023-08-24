@@ -9,7 +9,7 @@ module.exports = {
         filename: '[name].js',
         path: path.resolve(__dirname, 'dist'),
         assetModuleFilename: 'images/[name][ext][query]',
-        clean: true,
+        // clean: true,
     },
     devServer: {
         static: {
